@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1545392289 source:/home/saim/Source Code/MLPParallel/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<time.h>
+	<math.h>
+	"Matrix.h"
+	<pthread.h>
+	"MLPClassifier.h"
+	"MNIST_for_C-master/mnist.h"
+	"DataLoad.h"
+
+1541446638 /home/saim/Source Code/MLPParallel/Matrix.h
+
+1542546196 /home/saim/Source Code/MLPParallel/MLPClassifier.h
+
+1541019649 /home/saim/Source Code/MLPParallel/MNIST_for_C-master/mnist.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+	<string.h>
+
+1545320831 /home/saim/Source Code/MLPParallel/DataLoad.h
+

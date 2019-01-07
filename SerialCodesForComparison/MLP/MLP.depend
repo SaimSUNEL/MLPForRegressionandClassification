@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1546091390 source:/home/saim/Source Code/MLP/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<time.h>
+	<math.h>
+	"Matrix.h"
+	"MLPClassifier.h"
+	"DataLoad.h"
+	"MNIST_for_C-master/mnist.h"
+
+1541446638 /home/saim/Source Code/MLP/Matrix.h
+
+1541172997 /home/saim/Source Code/MLP/MLP.h
+
+1541019649 /home/saim/Source Code/MLP/MNIST_for_C-master/mnist.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+	<string.h>
+
+1541180605 /home/saim/Source Code/MLP/MLPEnhanced.h
+
+1542546234 /home/saim/Source Code/MLP/MLPClassifier.h
+
+1541195808 /home/saim/Source Code/MLP/MLPRegressor.h
+
+1545392347 /home/saim/Source Code/MLP/DataLoad.h
+
